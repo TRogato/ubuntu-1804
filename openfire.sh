@@ -84,7 +84,7 @@ GRANTALL="GRANT ALL PRIVILEGES ON openfire.* TO 'openfire' IDENTIFIED BY 'openfi
 FLUSH="FLUSH PRIVILEGES;"
 #
 # Declarando a variável de download do OpenFire (Link atualizado no dia 24/11/2020)
-OPENFIRE="https://www.igniterealtime.org/downloadServlet?filename=openfire/openfire_4.6.0_all.deb"
+OPENFIRE="https://www.igniterealtime.org/downloadServlet?filename=openfire/openfire_3.7.1_all.deb"
 #
 # Exportando o recurso de Noninteractive do Debconf para não solicitar telas de configuração
 export DEBIAN_FRONTEND="noninteractive"
